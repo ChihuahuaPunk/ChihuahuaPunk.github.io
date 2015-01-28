@@ -11,9 +11,11 @@ body {
 a {
     transition: .5s
 }
-p, quien-soy {
-    margin-top:22px;
-    margin-bottom:22px;
+.quien-soy p {
+    margin-bottom: 16px;
+}
+.quien-soy h4 {
+    padding-bottom: 50px;
 }
 .contenedor-logo {
     padding-top: 10px;
@@ -109,4 +111,13 @@ p, quien-soy {
 .footer-principal a {
     color: #b82c47;
     font-weight: 600;
+}
+@media screen and (min-width: 320px) and (max-width: 579px){
+    .menu-icono-movil {display:block;} /* mostrar */
+    .menu-icono-con-texto {display: none;}   /* no mostrar */
+}
+
+@media screen and (min-width: 580px) and (max-width: 2500px) {
+    .menu-icono-movil {display: none;}   /* no mostrar */
+    .menu-icono-con-texto {display:block;} /* mostrar */
 }
