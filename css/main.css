@@ -50,6 +50,9 @@ a {
 .menu .icon-item-menu:hover {
     color: #000
 }
+.menu-icono-movil .icon-item-menu {
+    padding-right: 32px;
+}
 .pagina-interior .un-proyecto img {
     opacity: 1
 }
