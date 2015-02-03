@@ -67,6 +67,13 @@ a {
 .un-proyecto img:hover {
     opacity: 1
 }
+.descripcion-proyecto {
+    min-height: 228px
+}
+.descripcion-proyecto {
+    font-size: 16px;
+    line-height: 27px
+}
 .quien-soy {
     padding-bottom: 40px;
     text-align: center;
