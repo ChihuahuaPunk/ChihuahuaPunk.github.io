@@ -13,9 +13,14 @@ a {
 }
 .quien-soy p {
     margin-bottom: 16px;
+    font-family: 'Signika'
+}
+.quien-soy h3 {
+    font-family: 'Signika'
 }
 .quien-soy h4 {
     padding-bottom: 50px;
+    font-family: 'Signika'
 }
 .contenedor-logo {
     padding-top: 10px;
@@ -32,8 +37,9 @@ a {
     text-align: center
 }
 .descrip-mia {
-    font-family: 'Signika Negative';
-    font-weight: 400
+    font-family: 'Signika';
+    font-weight: 400;
+    font-size: 24px
 }
 .menu {
     text-align: center;
@@ -52,6 +58,16 @@ a {
 }
 .menu-icono-movil .icon-item-menu {
     padding-right: 32px;
+}
+.menu-nav-portaf {
+    color: #154437;
+    font-size: 18px;
+    font-weight: 400
+}
+.menu-nav-portaf a {
+    color: #154437;
+    text-decoration: none;
+    font-weight: 600
 }
 .pagina-interior .un-proyecto img {
     opacity: 1
