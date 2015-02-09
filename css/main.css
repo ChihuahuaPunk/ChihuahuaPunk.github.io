@@ -22,6 +22,11 @@ a {
     padding-bottom: 50px;
     font-family: 'Signika'
 }
+.enlace-quien-soy {
+    font-size: 22px;
+    font-weight: 600;
+    color: rgba(200, 0, 100, 0.5)
+}
 .contenedor-logo {
     padding-top: 10px;
     padding-bottom: 10px;
