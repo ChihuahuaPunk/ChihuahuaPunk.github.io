@@ -2,6 +2,11 @@ body, .nombre-mio {
     font-family: 'Raleway';
     font-weight: 400
 }
+/* Thank you!!! (Icons made by http://www.typicons.com Stephen Hutchings
+ http://www.icomoon.io http://www.simpleicon.com http://www.freepik.com,
+ from http://www.flaticon.com
+ is licensed by Creative Commons BY 3.0
+*/
 body {
     padding-top: 10px;
     background-color: rgba(70, 171, 155, 0.4);
@@ -145,19 +150,6 @@ a {
 .footer-principal a {
     color: #b82c47;
     font-weight: 600;
-}
-.creditos-iconos-soc {
-    font-size: 6;
-    font-family: 'Raleway';
-    color:#534B4B;
-    line-height: 17px;
-}
-.creditos-iconos-soc a, a:hover {
-    color: #003B2F;
-    text-decoration: none
-}
-.creditosiconos {
-    padding-top: 1600px;
 }
 @media screen and (min-width: 320px) and (max-width: 579px){
     .menu-icono-movil {display:block;} /* mostrar */
