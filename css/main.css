@@ -18,7 +18,8 @@ a {
 }
 .quien-soy p {
     margin-bottom: 16px;
-    font-family: 'Signika'
+    font-family: 'Signika';
+    font-size: 15px
 }
 .quien-soy h3 {
     font-family: 'Signika'
