@@ -70,6 +70,16 @@ a {
 .menu-icono-movil .icon-item-menu {
     padding-right: 32px;
 }
+.icon-it-men-soc {
+    color: #b82c47;
+    font-size: 50px;
+}
+.icon-it-men-soc:not(:last-child) {
+    margin-right: 50px
+}
+.icon-it-men-soc:hover {
+    color: #000
+}
 .menu-nav-portaf {
     color: #154437;
     font-size: 18px;
